@@ -32,14 +32,3 @@ Coloque na mesma pasta do `app.py` os arquivos CSV abaixo:
    ```bash
    streamlit run app.py
    ```
-
-## Publicar no GitHub
-
-1. Crie um repositório chamado `Atividade de Fixação 07 - Dashboard`.
-2. Envie `app.py`, `README.md`, `requirements.txt` e os arquivos CSV necessários.
-3. Não inclua arquivos com dados pessoais ou secretos.
-
-## Observação
-
-O dashboard depende dos arquivos CSV listados. Eles não estavam incluídos no arquivo
-recebido; adicione-os antes de executar o projeto.
